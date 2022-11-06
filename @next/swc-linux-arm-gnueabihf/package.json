@@ -1,0 +1,45 @@
+{
+  "_from": "@next/swc-linux-arm-gnueabihf@13.0.2",
+  "_id": "@next/swc-linux-arm-gnueabihf@13.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-Y3OQF1CSBSWW2vGkmvOIuOUNqOq8qX7f1ZpcKUVWP3/Uq++DZmVi9d18lgnSe1I3QFqc+nXWyun9ljsN83j0sw==",
+  "_location": "/@next/swc-linux-arm-gnueabihf",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@next/swc-linux-arm-gnueabihf@13.0.2",
+    "name": "@next/swc-linux-arm-gnueabihf",
+    "escapedName": "@next%2fswc-linux-arm-gnueabihf",
+    "scope": "@next",
+    "rawSpec": "13.0.2",
+    "saveSpec": null,
+    "fetchSpec": "13.0.2"
+  },
+  "_requiredBy": [
+    "/next"
+  ],
+  "_resolved": "https://registry.npmjs.org/@next/swc-linux-arm-gnueabihf/-/swc-linux-arm-gnueabihf-13.0.2.tgz",
+  "_shasum": "18495cff32c0b2182cfbf677614219d7072214da",
+  "_spec": "@next/swc-linux-arm-gnueabihf@13.0.2",
+  "_where": "/home/jenku/Documents/jenkudumb/nextjs-blog/node_modules/next",
+  "bundleDependencies": false,
+  "cpu": [
+    "arm"
+  ],
+  "deprecated": false,
+  "description": "This is the **linux-arm-gnueabihf** binary for `@next/swc`",
+  "engines": {
+    "node": ">= 10"
+  },
+  "files": [
+    "next-swc.linux-arm-gnueabihf.node"
+  ],
+  "license": "MIT",
+  "main": "next-swc.linux-arm-gnueabihf.node",
+  "name": "@next/swc-linux-arm-gnueabihf",
+  "os": [
+    "linux"
+  ],
+  "version": "13.0.2"
+}
